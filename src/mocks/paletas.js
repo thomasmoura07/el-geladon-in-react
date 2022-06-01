@@ -1,4 +1,5 @@
-export const paletas =[{
+export const paletas = [
+  {
     titulo: "Açaí com Leite Condensado",
     descricao:
       "Quam vulputate dignissim suspendisse in est ante in nibh mauris.",
@@ -178,4 +179,5 @@ export const paletas =[{
     preco: 7.0,
     sabor: "Uva",
     possuiRecheio: false,
-  },]
+  },
+];
